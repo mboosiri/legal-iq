@@ -1,5 +1,8 @@
-openai
 pymilvus
 beautifulsoup4
 requests
 tqdm
+langchain
+langchain-community
+langchain-openai
+streamlit
